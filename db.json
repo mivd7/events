@@ -31,12 +31,6 @@
       "description": "It's going to be wait for it."
     },
     {
-      "name": "new event 2",
-      "date": "",
-      "description": "asdasd",
-      "id": 6
-    },
-    {
       "name": "norefresh",
       "date": "2019-08-08",
       "description": "no",
@@ -47,6 +41,12 @@
       "date": "2018-08-08",
       "description": "blabla",
       "id": 26
+    },
+    {
+      "name": "newer event",
+      "date": "2019-01-01",
+      "description": "edited and updated",
+      "id": 27
     }
   ],
   "comments": [
